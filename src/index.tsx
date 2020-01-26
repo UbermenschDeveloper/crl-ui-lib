@@ -4,7 +4,7 @@
 
 import * as React from 'react'
 
-import styles from './styles.css'
+import styles from './st.scss';
 
 export type Props = { text: string }
 
